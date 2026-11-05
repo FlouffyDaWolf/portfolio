@@ -7,7 +7,6 @@
 
 .Intro .Images {
     background-color: rgba(186, 175, 158, 0.15);
-    backdrop-filter: blur(20px);
     border-radius: 60px;
     box-shadow: 0 0 16px 8px rgba(186, 175, 158, 0.15);
     transform: translateY(-30px);
